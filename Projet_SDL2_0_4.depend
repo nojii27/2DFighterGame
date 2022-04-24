@@ -1,0 +1,4552 @@
+# depslib dependency file v1.0
+1577756617 source:c:\users\kesko\onedrive\documents\ctest\fighternaruto\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\begin_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\close_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577655442 c:\users\kesko\onedrive\documents\ctest\fighternaruto\src\function.c
+	"../include/include.h"
+
+1577754503 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1577720004 c:\users\kesko\onedrive\documents\ctest\fighternaruto\src\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"functions.c"
+
+1577756768 c:\users\kesko\onedrive\documents\ctest\fighternaruto\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1577755063 c:\users\kesko\onedrive\documents\ctest\fighternaruto\include\structure.h
+
+1577813219 source:c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1577812964 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\begin_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\close_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1577812964 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1577755063 c:\users\1234\documents\c\sdl 2\fighter-naruto-version-aek-acrroupissement\include\structure.h
+
+1578263120 source:c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1578168566 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\begin_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\close_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1578340983 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1578165847 c:\users\kesko\onedrive\documents\ctest\fighter-naruto-version-aek-saut-et-frappe-tete\include\structure.h
+
+1579694909 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1578849535 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\begin_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\close_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1580155448 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1579989123 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-évenements\include\structure.h
+
+1582228441 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1578849535 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\begin_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\close_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1582231489 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582226999 c:\users\kesko\onedrive\documents\ctest\fighter-version-deux-évenements - copie\include\structure.h
+
+1582818905 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1578849535 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\begin_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\close_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1582818556 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582226999 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-deux-evenements\fighter-version-deux-évenements - copie\include\structure.h
+
+1582907464 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582902755 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\begin_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\close_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1582913657 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582901014 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\include\structure.h
+
+1582823705 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5\src\icon.rc
+
+1582823705 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\src\icon.rc
+
+1583601767 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582902755 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\begin_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\close_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583601727 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582901014 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.5\include\structure.h
+
+1582823705 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\src\icon.rc
+
+1583609690 source:c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1582902755 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\begin_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\close_code.h
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583613077 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583609522 c:\users\kesko\onedrive\documents\ctest\fighter-version-0.5.9\include\structure.h
+
+1582823705 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\src\icon.rc
+
+1583782899 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583784858 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\begin_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\close_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583782521 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583772943 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.5.9\include\structure.h
+
+1582823705 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\src\icon.rc
+
+1583871910 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583871889 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\begin_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\close_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583871886 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583868193 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.6\include\structure.h
+
+1582823705 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\src\icon.rc
+
+1583877302 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583877296 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\begin_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\close_code.h
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809144 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583877559 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1583868193 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7\include\structure.h
+
+1583922098 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\src\icon.rc
+
+1587133273 source:c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\src\main.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1591611812 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\include.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"../src/functions.c"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\begin_code.h
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\close_code.h
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768293 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451803973 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451812744 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1592168598 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\src\functions.c
+	"../include/include.h"
+	"../include/structure.h"
+
+1585577379 c:\users\1234\documents\c\sdl 2\fighter\fighter-version-0.7.5\include\structure.h
+
+1644413280 source:c:\users\nohch\downloads\fighter-version-0.7.5-20220209t122655z-001\fighter-version-0.7.5\src\icon.rc
+
